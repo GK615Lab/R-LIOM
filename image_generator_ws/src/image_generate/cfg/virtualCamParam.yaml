@@ -1,0 +1,16 @@
+%YAML:1.0
+
+# 6th
+height: 400
+width: 400
+fx: 272.0
+fy: 272.0
+cx: 200.0
+cy: 200.0
+
+distance_threshold: 0.001
+pointThreshLower: 0.1
+pointThreshUpper: 40
+
+img_save_path: "/home/mason/fox/projects/slam/image_generator_ws/src/image_generate/saved/imgs/"
+inpaint_save_path: "/home/mason/fox/projects/slam/image_generator_ws/src/image_generate/saved/inpaint/"

@@ -1,0 +1,7 @@
+image_generator_ws/.vscode/
+image_generator_ws/build/
+image_generator_ws/devel/
+image_generator_ws/.catkin_workspace
+image_generator_ws/src/CMakeLists.txt
+*.jpg
+*.png
